@@ -1,0 +1,3 @@
+# ignore folders that are regenerated every time the quarto is rendered.
+/.quarto/
+/_book/
