@@ -1,3 +1,5 @@
 # Chapter 1
 
 Here is your Chapter 1, Chris. 
+
+Here are some more edits.  This should trigger warning about pull request if I try to directly commit. 
